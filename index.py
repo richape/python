@@ -45,7 +45,7 @@ while x < 5:
   x += 1
 
 # Functions
-def greet(name):
-  print("Hello, " + name)
+def greet(name): # def = define, greet is the name of the function and (name) is the parameter
+  print("Hello, " + name) # Output: Hello, name
 
   greet("Richard") # Output: Hello, Richard
