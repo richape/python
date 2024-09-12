@@ -7,7 +7,7 @@
 #   elif number * 5 == 0:
 #     print("Buzz")
 
-for number in range(1, 100):  # Corrected range to include 1 to 100
+for number in range(1, 100):  # Correct range to include 1 to 100
   if number % 3 == 0 and number % 5 == 0:  # Divisible by both 3 and 5
       print("FizzBuzz")
   elif number % 3 == 0:  # Divisible by 3
