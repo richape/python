@@ -3,7 +3,7 @@
 Here I am playing around with and trying to learn python. This is something new for me but looks easy enough to grasp.
 I prompted Chat GPT to write me some basic exercises to help me learn.
 
-# Exercises
+## Exercises
 
 - plaindrome-checker
 - fizzbuzz
