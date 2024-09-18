@@ -9,4 +9,4 @@ I prompted Chat GPT to write me some basic exercises to help me learn.
 - fizzbuzz
 - fibonacci-sequence
 
-These exercises were hard to begin with but I feel like a good understanding of JS helps
+These exercises were hard to begin with but I feel like a good understanding of the exercises and JS helped as I had worked on fizzbuzz during my studies in 2023.
